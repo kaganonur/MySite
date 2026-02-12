@@ -1,3 +1,6 @@
+# MySite
+My personal website contains content about me, my portfolio, and sometimes a blog.
+
 # 📊 İstatistik & Veri Bilimi Portfolyosu | 2026
 
 Bu portfolyo, veri analizi süreçlerimi, istatistiksel modelleme projelerimi ve teknik yetkinliklerimi sergilemek amacıyla hazırlanmıştır.
